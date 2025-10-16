@@ -9,7 +9,7 @@
 
 ## 📖 Overview  
 This project analyzes lettuce growth data to identify environmental factors that influence cultivation time and freshness.  
-The study aims to support Ahold Delhaize’s strategic goals in optimizing its **fresh produce supply chain**, ensuring **quality, sustainability, and operational efficiency** across all stages — from cultivation to store delivery.  
+The study aims to support Ahold Delhaize’s strategic goals in optimizing its **fresh produce supply chain**, ensuring **quality, sustainability, and operational efficiency** across all stages, from cultivation to store delivery.  
 
 ---
 
