@@ -31,3 +31,35 @@ Deliverables include:
 ---
 
 ## 📂 Repository Structure
+📁 data → raw and cleaned datasets
+📁 reports → executive report (PDF)
+📁 dashboard → Power BI / Data Studio dashboard file
+📁 branding → branding book and visual assets
+📁 assets → logos, icons, and presentation materials
+
+---
+
+## 📊 Deliverables
+- **Executive Report (PDF)**  
+- **Power BI Dashboard**  
+- **Branding Book (PDF)**  
+- **GitHub Documentation**
+
+---
+
+## 🧩 Tools Used
+- Excel / Google Sheets  
+- Power BI  
+- Canva / Figma (visual materials)  
+- Python (optional, for data analysis)  
+
+---
+
+## 🏁 Status
+🔄 In progress — Data analysis and design development phase.
+
+---
+
+## 📬 Contact
+📧 marcossollon@gmail.com
+🔗 [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/marcos-solon-b6027a266/))  
