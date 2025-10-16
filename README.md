@@ -48,11 +48,11 @@ Deliverables include:
 ---
 
 ## 🧩 Tools Used
-- Excel / Google Sheets  
+- Excel 
 - Power BI  
-- Canva / Figma (visual materials)  
-- Python (optional, for data analysis)  
-
+- Figma and Canva
+- Python
+- SQL
 ---
 
 ## 🏁 Status
@@ -62,4 +62,4 @@ Deliverables include:
 
 ## 📬 Contact
 📧 marcossollon@gmail.com
-🔗 [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/marcos-solon-b6027a266/))  
+🔗 [LinkedIn Profile]((https://www.linkedin.com/in/marcos-solon-b6027a266/))  
