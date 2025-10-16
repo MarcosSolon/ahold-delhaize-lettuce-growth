@@ -50,7 +50,8 @@ Deliverables include:
 ## 🧩 Tools Used
 - Excel 
 - Power BI  
-- Figma and Canva
+- Figma
+- Canva
 - Python
 - SQL
 ---
