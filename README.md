@@ -62,4 +62,4 @@ Deliverables include:
 
 ## 📬 Contact
 📧 marcossollon@gmail.com
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/marcos-solon-b6027a266/))  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/marcos-solon-b6027a266/)
