@@ -50,11 +50,11 @@ The project follows a structured **data analysis workflow**, guided by the **SMA
 ---
 
 ## 🧰 Tools and Technologies  
-- **Excel / Google Sheets** → data cleaning and analysis  
-- **Power BI / Data Studio** → dashboard and visual analytics  
-- **Canva / Figma** → visual and branding materials  
-- **Python (optional)** → advanced data manipulation and EDA  
-- **GitHub** → documentation and portfolio hosting  
+- **Excel** → data cleaning and analysis  
+- **Power BI** → dashboard and visual analytics  
+- **Canva and Figma** → visual and branding materials  
+- **Python** → advanced data manipulation and EDA  
+- **GitHub** → documentation hosting  
 
 ---
 
