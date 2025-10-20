@@ -35,7 +35,7 @@ The project follows a structured **data analysis workflow**, guided by the **SMA
 ## 📂 Repository Structure
 📁 data → raw and cleaned datasets
 📁 reports → executive report (PDF)
-📁 dashboard → Power BI or Data Studio dashboard file
+📁 dashboard → Power BI dashboard file
 📁 branding → branding book and visual identity materials
 📁 assets → logos, icons, and presentation graphics
 
